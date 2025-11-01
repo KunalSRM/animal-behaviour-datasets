@@ -1,0 +1,18 @@
+============================================================
+Processing: Animal Kingdom (CVPR2022)
+Fetching HTML: https://github.com/sutdcv/Animal-Kingdom
+Captured: Animal Kingdom (CVPR2022)
+============================================================
+Processing: APT-36K (Animal Pose Tracking)
+Fetching HTML: https://github.com/pandorgan/APT-36K
+Captured: APT-36K (Animal Pose Tracking)
+============================================================
+Processing: iNaturalist (subset: ba188/iNaturalist_v2)
+Fetching HTML: https://huggingface.co/datasets/ba188/iNaturalist_v2
+Captured: iNaturalist (subset: ba188/iNaturalist_v2)
+============================================================
+Processing: MammalNet
+Fetching HTML: https://mammal-net.github.io/
+Captured: MammalNet
+Done. Saved datasets_summary.json and datasets_summary.csv
+(venv) PS C:\Users\sriva\OneDrive\Desktop\AI_ML_PROJECTS\IIT_BHU_WORK> 
