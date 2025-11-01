@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pdfplumber  # optional but recommended to extract PDF text
+bs4
